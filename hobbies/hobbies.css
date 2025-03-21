@@ -1,3 +1,7 @@
+body {
+    background-color: #b2eba1;
+}
+
 .button {
     gap: 10%;
     width: 100%;
@@ -29,22 +33,26 @@
 }
 
 .menu_full ul li a:hover {
-    color: rgb(129, 129, 221);
+    color: rgb(81, 81, 230);
 }
 
-body {
-    background-color: #b2eba1;
+.text1 {
+    margin-top: 0%;
+    font-size: 34px;
+    padding: 40px;
 }
 
-.school {
-    width: 30%;
-    pointer-events: none;
-    display: block;
-    margin: 0 auto;
-    margin-top: 160px;
+.frame {
+    margin-top: 80px;
+    border-top: 5px double rgb(0, 0, 0);
+    border-bottom: 5px double rgb(0, 0, 0);
+    border-radius: 10%;
 }
 
-.share {
-    margin-top: 210px;
-  }
+.hobby {
+    margin-left: 30%;
+    margin-top: 2%;
+    width: 40%;
+}
+
 
