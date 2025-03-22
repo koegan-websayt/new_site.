@@ -36,15 +36,15 @@ body {
     background-color: #b2eba1;
 }
 
-.school {
+.earth {
     width: 30%;
     pointer-events: none;
     display: block;
     margin: 0 auto;
-    margin-top: 160px;
+    margin-top: 3%;
 }
 
 .share {
-    margin-top: 210px;
+    margin-top: 160px;
   }
 
