@@ -38,7 +38,8 @@ body {
 
 .class_full {
     border: 2px dashed black;
-    margin-left: 2%;
+    text-align: center;
+    margin-left: 24%;
     margin-top: 6%;
     padding: 20px 30px;
     width: 51%;
