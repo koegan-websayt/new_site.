@@ -64,23 +64,24 @@ body {
 }
 
 .earth {
-    z-index: 2;
-    width: 28%;
+    width: 20%;
     pointer-events: none;
     display: block;
-    margin: 0 auto;
     margin-top: 3%;
+    margin-left: 2%;
 }
 
 .share {
-    margin-top: -20.3%;
+    position: absolute;
+    top: 93%;
 }
 
 h1 {
-    text-shadow: 3px  5px 6px rgb(65, 60, 60);
+    text-shadow: 3px  5px 6px rgb(255, 255, 255);
     color: #0077ff;
-    margin: 26%;
-    margin-top: -30%;
+    margin: 8%;
+    margin-top: -20%;
+    margin-left: 25%;
 }
 
 .boat {
@@ -88,5 +89,5 @@ h1 {
 }
 
 .boat:hover {
-    transform: scale(1.1);
+    transform: scale(1.5) translate(8px, 8px);
 }
