@@ -1,12 +1,9 @@
-body {
-    background-color: #b2eba1;
-}
-
 .earth {
+    position: absolute;
     width: 20%;
     pointer-events: none;
     display: block;
-    margin-top: 3%;
+    margin-top: 4.6%;
     margin-left: 2%;
 }
 
@@ -16,10 +13,12 @@ body {
 }
 
 h1 {
+    font-size: 160%;
+    font-family: Comic Sans MS, Comic Sans, cursive;
     text-shadow: 3px  5px 6px rgb(255, 255, 255);
-    color: #0077ff;
+    color: #488ad4;
     margin: 8%;
-    margin-top: -20%;
+    margin-top: 4.5%;
     margin-left: 25%;
 }
 
