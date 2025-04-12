@@ -41,6 +41,7 @@ h1 {
 }
 
 .waviy span {
+    font-family: Comic Sans MS, Comic Sans, cursive;
     margin-top: 5%;
     position: relative;
     display: inline-block;
